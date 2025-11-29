@@ -42,13 +42,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-![Sliva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliva\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliva\&layout=compact\&theme=radical)
-
----
-
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-@shizaterrorblade-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/shizaterrorblade)
