@@ -38,7 +38,7 @@
 > **Самый продвинутый и безопасный Telegram-бот для управления Proxmox VE в 2025 году**
 > Всё, что нужно системному администратору: мониторинг, алерты, управление VM/LXC и безопасный шелл — прямо в чате.
 
-[Смотреть на GitHub](https://github.com/sliva/proxmox-telegram-bot)
+[Смотреть на GitHub](https://github.com/sliva-dev/proxmox-telegram-bot)
 
 ---
 
