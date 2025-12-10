@@ -40,7 +40,7 @@
 
 [Смотреть на GitHub](https://github.com/sliva-dev/proxmox-telegram-bot)
 
-###🤖 Discord Bot
+### 🤖 Discord Bot
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://python.org)
 [![Disnake](https://img.shields.io/badge/Disnake-2.9%2B-5865F2.svg?logo=discord)](https://docs.disnake.dev)
