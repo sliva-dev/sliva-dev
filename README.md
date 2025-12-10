@@ -40,6 +40,18 @@
 
 [Смотреть на GitHub](https://github.com/sliva-dev/proxmox-telegram-bot)
 
+###🤖 Discord Bot
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+[![Disnake](https://img.shields.io/badge/Disnake-2.9%2B-5865F2.svg?logo=discord)](https://docs.disnake.dev)
+[![Architecture](https://img.shields.io/badge/Architecture-Modular-blue.svg)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/sliva/proxmox-telegram-bot)
+
+> **Самый функциональный Discord бот в 2025 году**
+> Всё, что нужно владельцам серверов: тикеты, модерирование и логи.
+
+[Смотреть на GitHub](https://github.com/sliva-dev/discord-bot)
+
 ---
 
 ## 📫 Связаться со мной
