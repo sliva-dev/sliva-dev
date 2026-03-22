@@ -56,7 +56,7 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-@shizaterrorblade-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/shizaterrorblade)
+[![Telegram](https://img.shields.io/badge/Telegram-@slivadev-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/slivadev)
 [![Email](https://img.shields.io/badge/Email-sliva@sliva.su-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sliva@sliva.su)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sliva.su-green?style=for-the-badge)](https://sliva.su)
 
